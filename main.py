@@ -1,4 +1,4 @@
-"""程序入口：一箭又一箭"""
+"""程序入口"""
 from game import Game
 
 
