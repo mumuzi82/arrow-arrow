@@ -35,7 +35,7 @@
 
 ## 游戏截图
 - 游戏开始界面:
-![游戏界面](assets/屏幕截图kaishi.png)
+![游戏界面](assets/开始.png)
 
 - 游戏成功通关界面:
 ![游戏界面](assets/屏幕截图guoguan.png)
